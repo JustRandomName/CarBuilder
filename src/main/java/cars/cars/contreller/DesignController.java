@@ -21,7 +21,7 @@ public class DesignController {
         List<CarInformation> ingredients = Arrays.asList(
                 new CarInformation("Buggy", "Hippie", Type.BUGGY),
                 new CarInformation("Mazda mx-5", "Corn Tortilla", Type.CABRIOLET),
-                new CarInformation("VW Golf   ergkesrlg", "Ground Beef", Type.HATCHBACK),
+                new CarInformation("VW Golf", "Ground Beef", Type.HATCHBACK),
                 new CarInformation("Lincoln Mark IV", "Big Boss ", Type.COUPE),
                 new CarInformation("Tesla Roadster", "Second owner", Type.ROADSTER),
                 new CarInformation("Toyota Camry", "First Owner", Type.SEDAN)
